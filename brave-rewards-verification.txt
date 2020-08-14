@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: xan105.github.io
+Token: 84cb2db210c13c57abb999d6b27e95c0b259c3fb5d17eba9ccd92f99724e2e62
